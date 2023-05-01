@@ -1,0 +1,15 @@
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\bin\Debug\net6.0\Lab_1.exe
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\bin\Debug\net6.0\Lab_1.deps.json
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\bin\Debug\net6.0\Lab_1.runtimeconfig.json
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\bin\Debug\net6.0\Lab_1.dll
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\bin\Debug\net6.0\Lab_1.pdb
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\Lab_1.csproj.AssemblyReference.cache
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfoInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\Lab_1.csproj.CoreCompileInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\Lab_1.dll
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\refint\Lab_1.dll
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\Lab_1.pdb
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\Lab_1.genruntimeconfig.cache
+D:\Education\KPI\FIOT\5_semester\Microsoft_NET_web\Lab\Lab_1_2\Lab_1\obj\Debug\net6.0\ref\Lab_1.dll
